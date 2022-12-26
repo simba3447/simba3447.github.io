@@ -4,7 +4,6 @@ avatar: /static/images/IMG_0074.jpg
 occupation: Department of CSE
 company: Hanyang University
 email: simba3447@gmail.com
-twitter: https://twitter.com/Twitter
 instagram: https://www.instagram.com/__cicicapo__/
 linkedin: https://www.linkedin.com/in/%EC%A2%85%ED%97%8C-%EA%B9%80-664678160/
 github: https://github.com/simba3447
