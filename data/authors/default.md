@@ -1,12 +1,13 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+name: Jongheon Kim
+avatar: /static/images/IMG_0074.jpg
+occupation: Department of CSE
+company: Hanyang University
+email: simba3447@gmail.com
 twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+instagram: https://www.instagram.com/__cicicapo__/
+linkedin: https://www.linkedin.com/in/%EC%A2%85%ED%97%8C-%EA%B9%80-664678160/
+github: https://github.com/simba3447
 ---
 
 Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
