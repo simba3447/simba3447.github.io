@@ -9,8 +9,11 @@ linkedin: https://www.linkedin.com/in/%EC%A2%85%ED%97%8C-%EA%B9%80-664678160/
 github: https://github.com/simba3447
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+저는 이런 개발자입니다.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+- 주니어 백엔드 개발자입니다. 매일 사용하는 서비스를 지탱하는 기술의 가치를 이해하고 탐구합니다.
+- 낮에는 커피☕️, 밤에는 위스키🥃로 동작합니다.
+- Specialist보다 Generalist이기를 꿈꿉니다. 경계를 넘는 사고로 숨은 가치를 찾아냅니다.
+- 한 곳에 머무르지 않습니다. 스스로 회고하고 매일 변화를 시도하며 조금씩 나아갑니다.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+~~[Check My Resume!](https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif)~~ 공사중... 🚧
